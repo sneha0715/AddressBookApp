@@ -1,4 +1,4 @@
-package com.sneha.Address.Book;
+package com.sneha.Address_Book;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
